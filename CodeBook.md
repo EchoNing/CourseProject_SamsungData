@@ -6,7 +6,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # Transformation Steps
-Following data transformation steps are carried out by the `run_analysis.R` script.
+* Following data transformation steps are carried out by the `run_analysis.R` script.
 1. Read the test the training sets
 	* read `X_test.txt` and `X_train.txt`
 	* read the column names in `feature.txt` and assign them to the columns in the `X` files
